@@ -1,4 +1,6 @@
 bin
 .settings
 .generated~
+*.generated.*
 target~
+*.out
