@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Application-Id: stopwatch
+Application-Version: 0.1.0
+Application-PrintableName: stopwatch
+Application-Description: stopwatch
+Application-IconsDirectory: icons
+Application-Activities: stopwatch.MainActivity
