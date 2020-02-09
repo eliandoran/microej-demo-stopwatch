@@ -4,3 +4,6 @@ bin
 *.generated.*
 target~
 *.out
+com.microej.*
+src-adpgenerated
+filesystem
